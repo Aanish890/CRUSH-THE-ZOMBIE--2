@@ -1,1 +1,2 @@
-# CRUSH-THE-ZOMBIE--2
+# zombie-crush-assets
+assests for crush the zombie game
